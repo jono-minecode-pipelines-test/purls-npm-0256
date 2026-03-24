@@ -1,0 +1,82 @@
+{
+    "name": "-tompan-reacttemplate",
+    "version": "1.0.4",
+    "description": "quick start react with route and materiaui",
+    "main": "index.js",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/panpan1231/tompan-reacttemplate.git"
+    },
+    "author": {
+        "name": "Tom"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/panpan1231/tompan-reacttemplate.git"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "dependencies": {
+        "@date-io/date-fns": "1.x",
+        "@material-ui/core": "^4.11.0",
+        "@material-ui/icons": "^4.9.1",
+        "@material-ui/pickers": "^3.2.10",
+        "@testing-library/jest-dom": "^4.2.4",
+        "@testing-library/react": "^9.3.2",
+        "@testing-library/user-event": "^7.1.2",
+        "animate.css": "^4.1.1",
+        "axios": "^0.19.2",
+        "date-fns": "^2.16.1",
+        "fbemitter": "^2.1.1",
+        "i18next": "^19.7.0",
+        "node-sass": "^4.14.1",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "react-i18next": "^11.7.3",
+        "react-responsive-carousel": "^3.2.10",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "3.4.3"
+    },
+    "homepage": "https://github.com/panpan1231/tompan-reacttemplate.git",
+    "gitHead": "db39f3c744970d0cac1320447a0ee6c076f22add",
+    "_id": "-tompan-reacttemplate@1.0.4",
+    "_nodeVersion": "14.5.0",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-K3K0ytxqWRxyzFjSZTA4vyrxjZmT54r/3YWBJEFbOZRnNwM/kXr9++/sGbfrJ2SDJ/TyaLoh+0yjYaElZh0w+w==",
+        "shasum": "1b4b6e98103ef6fb350d503ba8044933a0146018",
+        "tarball": "https://registry.npmjs.org/-tompan-reacttemplate/-/-tompan-reacttemplate-1.0.4.tgz",
+        "fileCount": 78,
+        "unpackedSize": 121039,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJftLn0CRA9TVsSAnZWagAAVUAP/jtetVNBGq5U9cMdKsxJ\nwDs1+4NPrbySKvq6ayOZ0g6AshqjS6fCKHFC1OIA0g3YrsX+fwdbJJ1ZS1BB\nKyL1hFlEFd8VK5QnMStFI960tV3ldWaEDuMGWG7ZDHDjnHKn9ag4jaCOBUyW\nIYyoh6IR+zus+FmT54XYChlubazkljFPI6IorSthKUm4Osz+jNtdcFtci0E4\nvdLc+UG90UemjYSA2OojQE19aiG9vxBoqK5x/xzgtyXbgyq4DzZDz16K6g0h\ndZ17VZfY0UxyOFBP+wDSBhJn/17pRZuPac+6HPG3lH5Zdj+oiqRS10J1diCm\njU3ncOSHGQheAStZibQPVTiIEsjrw1sw426+Aej+VyHLpwBgEpK07XZbCtG7\nd3Dkb1o8V893IothQAkO5Csy1PhsFcUR1OM3GyTihuHlI0EshbtLkw28laAo\nCrW5Wudekj1+PWXHYycdYg+mcn/94tSLtNCM+dWx8mCpn/UbCNehmmNE7Es+\nrAC6H71vjuBWjdZYCyq1UW9u8n7s7OIXFNx/FZR1Gu3b916W6egwDidzZ3wp\n8ZC6C42lIa5runb0IG5LYhLy2EtO71XzZhvvPzPPg06k2a/GfjgtWN6WiA95\nn8Vv5vQHKek5QvKaK4xTm4UKsU3Xp1s/KHIxfQl30ajt5j1V0ZH/gqTHYilH\nEZN9\r\n=YZT/\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCICOPF3RAXAxn9lhVIFtC3Y/whk1DC4nSvmud94+rHNZrAiArFqalVic4reiQOwiAJeUFeCreRKm+V4NVSg67T2cABA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "tompan",
+        "email": "t9042424@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "tompan",
+            "email": "t9042424@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-tompan-reacttemplate_1.0.4_1605679603747_0.9510463976518628"
+    },
+    "_hasShrinkwrap": false
+}
