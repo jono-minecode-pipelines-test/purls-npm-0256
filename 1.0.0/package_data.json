@@ -1,6 +1,6 @@
 {
     "name": "00_minicalculator",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "description": "A simple calculator with Typescript, Node.js and inquirer by Samia72329",
     "main": "index.js",
     "type": "module",
@@ -20,19 +20,19 @@
     "devDependencies": {
         "@types/inquirer": "^9.0.7"
     },
-    "_id": "00_minicalculator@1.0.3",
+    "_id": "00_minicalculator@1.0.0",
     "_nodeVersion": "20.11.1",
     "_npmVersion": "10.5.0",
     "dist": {
-        "integrity": "sha512-ib+WEl7wVQFN4qal6FpEWyX0X1IcnXT4Z712RtDB8r/4eBlYtbBA/e/2bvGgNVr/jgObem23SZUQ86Qw3EP0uw==",
-        "shasum": "f8ac1ac9bfcaab59aff0604f7670b89f7252f50f",
-        "tarball": "https://registry.npmjs.org/00_minicalculator/-/00_minicalculator-1.0.3.tgz",
+        "integrity": "sha512-y/2JLCDU8E/SDIYvQz2LFw5rm9f0nisiZkAo6aAZfSMTI1F5RFOZc/dMB38rGwKRloHLBAuDxtZ1HlmgHIjdpw==",
+        "shasum": "fa99457bacc6a0e9eede15ab05eb9f41cd4b5b08",
+        "tarball": "https://registry.npmjs.org/00_minicalculator/-/00_minicalculator-1.0.0.tgz",
         "fileCount": 4,
-        "unpackedSize": 16571,
+        "unpackedSize": 16568,
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEUCIQDJ8Nsz3oalZ1STuIP3DPh7+fwJzUI+6noRGJdpXJlK4gIgYEQFT5TvQ9acICFMDM82fX796hOE57oWtO2U/WpPdiY="
+                "sig": "MEUCIQCIUbb44XaTz1h69L5mnthPGfnXskPLhw4eLEdXoX7lJgIgOMlfFmy+nya8FhMGUutrYUMYRKktkb14Q4MQC/0o6ow="
             }
         ]
     },
@@ -49,7 +49,7 @@
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/00_minicalculator_1.0.3_1711546344669_0.2723534395714875"
+        "tmp": "tmp/00_minicalculator_1.0.0_1711543121507_0.7868501169559095"
     },
     "_hasShrinkwrap": false
 }

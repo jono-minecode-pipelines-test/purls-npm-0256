@@ -1,82 +1,55 @@
 {
-    "name": "-tompan-reacttemplate",
+    "name": "00_minicalculator",
     "version": "1.0.1",
-    "description": "quick start react with route and materiaui",
+    "description": "A simple calculator with Typescript, Node.js and inquirer by Samia72329",
     "main": "index.js",
-    "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-        "test": "react-scripts test",
-        "eject": "react-scripts eject"
+    "type": "module",
+    "bin": {
+        "00_minicalculator": "index.js"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/panpan1231/-tompan-reacttemplate.git"
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": {
-        "name": "Tom"
+        "name": "Samia72329"
     },
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/panpan1231/-tompan-reacttemplate.git"
-    },
-    "eslintConfig": {
-        "extends": "react-app"
-    },
+    "license": "MIT",
     "dependencies": {
-        "@date-io/date-fns": "1.x",
-        "@material-ui/core": "^4.11.0",
-        "@material-ui/icons": "^4.9.1",
-        "@material-ui/pickers": "^3.2.10",
-        "@testing-library/jest-dom": "^4.2.4",
-        "@testing-library/react": "^9.3.2",
-        "@testing-library/user-event": "^7.1.2",
-        "animate.css": "^4.1.1",
-        "axios": "^0.19.2",
-        "date-fns": "^2.16.1",
-        "fbemitter": "^2.1.1",
-        "i18next": "^19.7.0",
-        "node-sass": "^4.14.1",
-        "react": "^16.13.1",
-        "react-dom": "^16.13.1",
-        "react-i18next": "^11.7.3",
-        "react-responsive-carousel": "^3.2.10",
-        "react-router-dom": "^5.2.0",
-        "react-scripts": "3.4.3"
+        "inquirer": "^9.2.16"
     },
-    "homepage": "https://github.com/panpan1231/-tompan-reacttemplate.git",
-    "gitHead": "da11a51a714068e234b08f21c67b5295551a3cd1",
-    "_id": "-tompan-reacttemplate@1.0.1",
-    "_nodeVersion": "14.5.0",
-    "_npmVersion": "6.14.5",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "00_minicalculator@1.0.1",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.5.0",
     "dist": {
-        "integrity": "sha512-PKw3a706yzlhwXZFVjhXivbhjpM+JFTsvsQkF4jlxx9oJXxQQTj/Myi6W05PTYKsscV8/0mpdrAHJu+cF+pgTA==",
-        "shasum": "cb7863244137e4bade2d65efc8287efe898ab303",
-        "tarball": "https://registry.npmjs.org/-tompan-reacttemplate/-/-tompan-reacttemplate-1.0.1.tgz",
-        "fileCount": 78,
-        "unpackedSize": 120992,
-        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJftJGZCRA9TVsSAnZWagAAkc0QAJe6rAcue5bd2VrK5jXQ\nwvSYQHcjHHURNVfkrdPtLFHU1NLMkn8YsYG8m3ett7UdMFMK2KKgHaCIOTHT\nlEP2InQO8O7qHSX503XUN0DE4jzUgHIj8zzBfUku+sVIYSlqDEP3+HsN2q5e\ndETtdTyPdp/32o06zN6h0UuLNtH1sEEazcCVrIQr0BE09MhHMyv99cR4m2lw\n/eKKMjcQ2BV3uF9Ki4jtV2owzqK85cdvfKJHAXVPKkgbMC8gmtpd/URXt2om\nMgsrTMfIjPWoY2EiJcg0bX3vDslA30fGeIcaOmhbFDFceMFsMQgGinOGC9j6\nbJk/zMD+i4QxdQ8jJO4w6pG/CIjkHzE05ANmfJZAzwmWkvZaI5qpiVcB+ZgF\nYBn3yjqXBP+YjKhOhM6HPUhVjXrcYk1t/6gOJs/+lAOQbkm2E/kYDJLwQ1ep\nlT8kGdOgABzBU39ysV0mXUDDS87uT4od6LtziOyPOytAEf9LOvsgSSpn1VC/\nPAp0+pqhtxgUEeFWmG8xgGiVPWdn2XLl8qs/ReIzCYCrhUxcJ5W6dF/9v/lB\nKQhIt0V2+nFmDv4Cez+cJsQEa6nsQwEz72l3HTFo9Q7HWD6cm2eKshANdmRy\nx3Qo2SyvERkitMTNCcLkFnx19OFmXhDQXeU0HvCcFFHkS5893kJpkuAuRPCS\n0Fcu\r\n=uHNs\r\n-----END PGP SIGNATURE-----\r\n",
+        "integrity": "sha512-AQncAN9O+qFf44zK2tOY2a9ybIvKpi1K5+d9hB5/hxmlKYRmU+1VR76I6t2OSRXor80odbB6LgVZJnr3mn+iZA==",
+        "shasum": "433e444de963c66b8c2fb22b89924487bf153897",
+        "tarball": "https://registry.npmjs.org/00_minicalculator/-/00_minicalculator-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 16568,
         "signatures": [
             {
                 "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
-                "sig": "MEYCIQCDAQA2f3Ue1FAHXq7spfSrHJov5GgQ/WDC0wgWZRDw1gIhAMzliQzsEtt7TNCTWnrgusBW8xPvrxJfy1I6vRMlZJ96"
+                "sig": "MEUCIHJcpO6XPrtEnere4UHP+LWdTAoP5Y4fjwzm4bXIySArAiEA67G5vNYc1Vdjj6s4TAz6fiFYboVMRI0Nh5Lc8FBe3Ho="
             }
         ]
     },
     "_npmUser": {
-        "name": "tompan",
-        "email": "t9042424@gmail.com"
+        "name": "samia72329",
+        "email": "samia72329salman@gmail.com"
     },
     "directories": {},
     "maintainers": [
         {
-            "name": "tompan",
-            "email": "t9042424@gmail.com"
+            "name": "samia72329",
+            "email": "samia72329salman@gmail.com"
         }
     ],
     "_npmOperationalInternal": {
         "host": "s3://npm-registry-packages",
-        "tmp": "tmp/-tompan-reacttemplate_1.0.1_1605669272584_0.15286396334433805"
+        "tmp": "tmp/00_minicalculator_1.0.1_1711543605943_0.608743074583783"
     },
     "_hasShrinkwrap": false
 }
